@@ -11,9 +11,10 @@ int main() {
     
     printf("%d + %d = %d", number1, number2, sum);
     return 0;
+
 }
-//Adding same function as earlier, for the main
 int func_add(int a, int b)
-{
-	return a+b;
-}
+
+	{
+		return a+b;
+	}
